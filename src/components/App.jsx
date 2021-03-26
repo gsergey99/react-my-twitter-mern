@@ -55,6 +55,7 @@ export default function App(props){
           <PostList/>
         </Col>
       </Row>
+      
     </Container>
   );
 }
